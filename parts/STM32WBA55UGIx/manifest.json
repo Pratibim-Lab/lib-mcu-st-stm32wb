@@ -1,0 +1,17 @@
+{
+  "id": "MCU_ST_STM32WB/STM32WBA55UGIx:STM32WBA55UGIx",
+  "name": "STM32WBA55UGIx",
+  "library": "MCU_ST_STM32WB",
+  "file": "MCU_ST_STM32WB.kicad_symdir/STM32WBA55UGIx.kicad_sym",
+  "description": "STMicroelectronics Arm Cortex-M33 MCU, 1024KB flash, 128KB RAM, 100 MHz, 1.71-3.6V, 37 GPIO, UFBGA59",
+  "datasheet": "https://www.st.com/resource/en/datasheet/stm32wba55ug.pdf",
+  "keywords": "Arm Cortex-M33 STM32WBA STM32WBAx5",
+  "footprint": "Package_BGA:ST_UFBGA-59_5x5mm_Layout8x8_P0.5mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-st-stm32wb@master/parts/STM32WBA55UGIx/",
+  "part_path": "parts/STM32WBA55UGIx",
+  "symbol_file": "parts/STM32WBA55UGIx/STM32WBA55UGIx.kicad_sym",
+  "source_library": "MCU_ST_STM32WB.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:09:36.035Z"
+}

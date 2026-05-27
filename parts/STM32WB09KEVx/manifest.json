@@ -1,0 +1,17 @@
+{
+  "id": "MCU_ST_STM32WB/STM32WB09KEVx:STM32WB09KEVx",
+  "name": "STM32WB09KEVx",
+  "library": "MCU_ST_STM32WB",
+  "file": "MCU_ST_STM32WB.kicad_symdir/STM32WB09KEVx.kicad_sym",
+  "description": "STMicroelectronics Arm Cortex-M0+ MCU, 512KB flash, 64KB RAM, 20 GPIO, VFQFPN32",
+  "datasheet": "https://www.st.com/resource/en/datasheet/stm32wb09ke.pdf",
+  "keywords": "Arm Cortex-M0+ STM32WB0 STM32WBx9",
+  "footprint": "Package_DFN_QFN:QFN-32-1EP_5x5mm_P0.5mm_EP3.7x3.7mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-st-stm32wb@master/parts/STM32WB09KEVx/",
+  "part_path": "parts/STM32WB09KEVx",
+  "symbol_file": "parts/STM32WB09KEVx/STM32WB09KEVx.kicad_sym",
+  "source_library": "MCU_ST_STM32WB.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:09:35.903Z"
+}

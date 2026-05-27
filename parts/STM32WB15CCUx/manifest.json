@@ -1,0 +1,17 @@
+{
+  "id": "MCU_ST_STM32WB/STM32WB15CCUx:STM32WB15CCUx",
+  "name": "STM32WB15CCUx",
+  "library": "MCU_ST_STM32WB",
+  "file": "MCU_ST_STM32WB.kicad_symdir/STM32WB15CCUx.kicad_sym",
+  "description": "STMicroelectronics Arm Cortex-M4 MCU, 320KB flash, 48KB RAM, 64 MHz, 1.71-3.6V, 30 GPIO, UFQFPN48",
+  "datasheet": "https://www.st.com/resource/en/datasheet/stm32wb15cc.pdf",
+  "keywords": "Arm Cortex-M4 STM32WB STM32WBx5",
+  "footprint": "Package_DFN_QFN:QFN-48-1EP_7x7mm_P0.5mm_EP5.6x5.6mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-st-stm32wb@master/parts/STM32WB15CCUx/",
+  "part_path": "parts/STM32WB15CCUx",
+  "symbol_file": "parts/STM32WB15CCUx/STM32WB15CCUx.kicad_sym",
+  "source_library": "MCU_ST_STM32WB.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:09:35.908Z"
+}

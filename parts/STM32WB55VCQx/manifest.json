@@ -1,0 +1,17 @@
+{
+  "id": "MCU_ST_STM32WB/STM32WB55VCQx:STM32WB55VCQx",
+  "name": "STM32WB55VCQx",
+  "library": "MCU_ST_STM32WB",
+  "file": "MCU_ST_STM32WB.kicad_symdir/STM32WB55VCQx.kicad_sym",
+  "description": "STMicroelectronics Arm Cortex-M4 MCU, 256KB flash, 128KB RAM, 64 MHz, 1.71-3.6V, 72 GPIO, UFBGA129",
+  "datasheet": "https://www.st.com/resource/en/datasheet/stm32wb55vc.pdf",
+  "keywords": "Arm Cortex-M4 STM32WB STM32WBx5",
+  "footprint": "Package_BGA:ST_UFBGA-129_7x7mm_Layout13x13_P0.5mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-st-stm32wb@master/parts/STM32WB55VCQx/",
+  "part_path": "parts/STM32WB55VCQx",
+  "symbol_file": "parts/STM32WB55VCQx/STM32WB55VCQx.kicad_sym",
+  "source_library": "MCU_ST_STM32WB.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:09:35.947Z"
+}

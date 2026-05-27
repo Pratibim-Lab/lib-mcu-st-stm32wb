@@ -1,0 +1,17 @@
+{
+  "id": "MCU_ST_STM32WB/STM32WB35CEUxA:STM32WB35CEUxA",
+  "name": "STM32WB35CEUxA",
+  "library": "MCU_ST_STM32WB",
+  "file": "MCU_ST_STM32WB.kicad_symdir/STM32WB35CEUxA.kicad_sym",
+  "description": "STMicroelectronics Arm Cortex-M4 MCU, 512KB flash, 96KB RAM, 30 GPIO, UFQFPN48",
+  "datasheet": "https://www.st.com/resource/en/datasheet/stm32wb35ce.pdf",
+  "keywords": "Arm Cortex-M4 STM32WB STM32WBx5",
+  "footprint": "Package_DFN_QFN:QFN-48-1EP_7x7mm_P0.5mm_EP5.6x5.6mm",
+  "extends": "STM32WB35C_C-E_UxA",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-st-stm32wb@master/parts/STM32WB35CEUxA/",
+  "part_path": "parts/STM32WB35CEUxA",
+  "symbol_file": "parts/STM32WB35CEUxA/STM32WB35CEUxA.kicad_sym",
+  "source_library": "MCU_ST_STM32WB.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:09:35.920Z"
+}

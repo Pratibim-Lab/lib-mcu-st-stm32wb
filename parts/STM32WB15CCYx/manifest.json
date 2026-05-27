@@ -1,0 +1,17 @@
+{
+  "id": "MCU_ST_STM32WB/STM32WB15CCYx:STM32WB15CCYx",
+  "name": "STM32WB15CCYx",
+  "library": "MCU_ST_STM32WB",
+  "file": "MCU_ST_STM32WB.kicad_symdir/STM32WB15CCYx.kicad_sym",
+  "description": "STMicroelectronics Arm Cortex-M4 MCU, 320KB flash, 48KB RAM, 64 MHz, 1.71-3.6V, 26 GPIO, WLCSP49",
+  "datasheet": "https://www.st.com/resource/en/datasheet/stm32wb15cc.pdf",
+  "keywords": "Arm Cortex-M4 STM32WB STM32WBx5",
+  "footprint": "Package_CSP:ST_WLCSP-49_3.3x3.38mm_Layout7x7_P0.4mm_Offcenter",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-st-stm32wb@master/parts/STM32WB15CCYx/",
+  "part_path": "parts/STM32WB15CCYx",
+  "symbol_file": "parts/STM32WB15CCYx/STM32WB15CCYx.kicad_sym",
+  "source_library": "MCU_ST_STM32WB.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:09:35.912Z"
+}
